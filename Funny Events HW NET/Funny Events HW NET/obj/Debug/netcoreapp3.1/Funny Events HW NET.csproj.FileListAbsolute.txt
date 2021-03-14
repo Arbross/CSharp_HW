@@ -1,0 +1,13 @@
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\obj\Debug\netcoreapp3.1\Funny Events HW NET.csprojAssemblyReference.cache
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\obj\Debug\netcoreapp3.1\Funny Events HW NET.AssemblyInfoInputs.cache
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\obj\Debug\netcoreapp3.1\Funny Events HW NET.AssemblyInfo.cs
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\obj\Debug\netcoreapp3.1\Funny Events HW NET.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\bin\Debug\netcoreapp3.1\Funny Events HW NET.exe
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\bin\Debug\netcoreapp3.1\Funny Events HW NET.deps.json
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\bin\Debug\netcoreapp3.1\Funny Events HW NET.runtimeconfig.json
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\bin\Debug\netcoreapp3.1\Funny Events HW NET.runtimeconfig.dev.json
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\bin\Debug\netcoreapp3.1\Funny Events HW NET.dll
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\bin\Debug\netcoreapp3.1\Funny Events HW NET.pdb
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\obj\Debug\netcoreapp3.1\Funny Events HW NET.dll
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\obj\Debug\netcoreapp3.1\Funny Events HW NET.pdb
+C:\Users\victor\Desktop\Funny Events HW NET\Funny Events HW NET\obj\Debug\netcoreapp3.1\Funny Events HW NET.genruntimeconfig.cache

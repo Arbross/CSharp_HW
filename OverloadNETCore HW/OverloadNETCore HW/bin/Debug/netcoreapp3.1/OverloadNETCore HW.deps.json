@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OverloadNETCore HW/1.0.0": {
+        "runtime": {
+          "OverloadNETCore HW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OverloadNETCore HW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

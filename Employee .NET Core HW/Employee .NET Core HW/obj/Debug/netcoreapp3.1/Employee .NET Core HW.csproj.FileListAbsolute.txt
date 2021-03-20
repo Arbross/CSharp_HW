@@ -1,0 +1,13 @@
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\bin\Debug\netcoreapp3.1\Employee .NET Core HW.exe
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\bin\Debug\netcoreapp3.1\Employee .NET Core HW.deps.json
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\bin\Debug\netcoreapp3.1\Employee .NET Core HW.runtimeconfig.json
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\bin\Debug\netcoreapp3.1\Employee .NET Core HW.runtimeconfig.dev.json
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\bin\Debug\netcoreapp3.1\Employee .NET Core HW.dll
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\bin\Debug\netcoreapp3.1\Employee .NET Core HW.pdb
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\obj\Debug\netcoreapp3.1\Employee .NET Core HW.csprojAssemblyReference.cache
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\obj\Debug\netcoreapp3.1\Employee .NET Core HW.AssemblyInfoInputs.cache
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\obj\Debug\netcoreapp3.1\Employee .NET Core HW.AssemblyInfo.cs
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\obj\Debug\netcoreapp3.1\Employee .NET Core HW.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\obj\Debug\netcoreapp3.1\Employee .NET Core HW.dll
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\obj\Debug\netcoreapp3.1\Employee .NET Core HW.pdb
+C:\Users\victor\Desktop\Employee .NET Core HW\Employee .NET Core HW\obj\Debug\netcoreapp3.1\Employee .NET Core HW.genruntimeconfig.cache

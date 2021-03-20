@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Employee .NET Core HW/1.0.0": {
+        "runtime": {
+          "Employee .NET Core HW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee .NET Core HW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

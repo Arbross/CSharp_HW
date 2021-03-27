@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Hothouse\Hothouse\bin\Debug\netcoreapp3.1\Hothouse.exe
+C:\Users\victor\source\repos\Hothouse\Hothouse\bin\Debug\netcoreapp3.1\Hothouse.deps.json
+C:\Users\victor\source\repos\Hothouse\Hothouse\bin\Debug\netcoreapp3.1\Hothouse.runtimeconfig.json
+C:\Users\victor\source\repos\Hothouse\Hothouse\bin\Debug\netcoreapp3.1\Hothouse.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Hothouse\Hothouse\bin\Debug\netcoreapp3.1\Hothouse.dll
+C:\Users\victor\source\repos\Hothouse\Hothouse\bin\Debug\netcoreapp3.1\Hothouse.pdb
+C:\Users\victor\source\repos\Hothouse\Hothouse\obj\Debug\netcoreapp3.1\Hothouse.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Hothouse\Hothouse\obj\Debug\netcoreapp3.1\Hothouse.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Hothouse\Hothouse\obj\Debug\netcoreapp3.1\Hothouse.AssemblyInfo.cs
+C:\Users\victor\source\repos\Hothouse\Hothouse\obj\Debug\netcoreapp3.1\Hothouse.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Hothouse\Hothouse\obj\Debug\netcoreapp3.1\Hothouse.dll
+C:\Users\victor\source\repos\Hothouse\Hothouse\obj\Debug\netcoreapp3.1\Hothouse.pdb
+C:\Users\victor\source\repos\Hothouse\Hothouse\obj\Debug\netcoreapp3.1\Hothouse.genruntimeconfig.cache

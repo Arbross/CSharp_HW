@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\obj\Debug\netcoreapp3.1\Queue.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\victor\source\repos\EventHandler. Generics\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandler. Generics", "EventHandler. Generics\EventHandler. Generics.csproj", "{9CBA8FB3-A5BC-4ACA-B3F8-400BBB8BFC47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{9B034434-B1E8-448B-9A2F-C1A96C9A1830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CBA8FB3-A5BC-4ACA-B3F8-400BBB8BFC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBA8FB3-A5BC-4ACA-B3F8-400BBB8BFC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBA8FB3-A5BC-4ACA-B3F8-400BBB8BFC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBA8FB3-A5BC-4ACA-B3F8-400BBB8BFC47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B034434-B1E8-448B-9A2F-C1A96C9A1830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B034434-B1E8-448B-9A2F-C1A96C9A1830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B034434-B1E8-448B-9A2F-C1A96C9A1830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B034434-B1E8-448B-9A2F-C1A96C9A1830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B44A983-9C2E-42C8-A215-CE304122D5AF}
+	EndGlobalSection
+EndGlobal

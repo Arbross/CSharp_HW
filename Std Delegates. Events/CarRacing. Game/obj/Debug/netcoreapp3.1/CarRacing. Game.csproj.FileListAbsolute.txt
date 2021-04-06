@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\bin\Debug\netcoreapp3.1\CarRacing. Game.exe
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\bin\Debug\netcoreapp3.1\CarRacing. Game.deps.json
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\bin\Debug\netcoreapp3.1\CarRacing. Game.runtimeconfig.json
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\bin\Debug\netcoreapp3.1\CarRacing. Game.runtimeconfig.dev.json
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\bin\Debug\netcoreapp3.1\CarRacing. Game.dll
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\bin\Debug\netcoreapp3.1\CarRacing. Game.pdb
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\obj\Debug\netcoreapp3.1\CarRacing. Game.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\obj\Debug\netcoreapp3.1\CarRacing. Game.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\obj\Debug\netcoreapp3.1\CarRacing. Game.AssemblyInfo.cs
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\obj\Debug\netcoreapp3.1\CarRacing. Game.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\obj\Debug\netcoreapp3.1\CarRacing. Game.dll
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\obj\Debug\netcoreapp3.1\CarRacing. Game.pdb
+C:\Users\victor\source\repos\DelegatesAndEvents\CarRacing. Game\obj\Debug\netcoreapp3.1\CarRacing. Game.genruntimeconfig.cache

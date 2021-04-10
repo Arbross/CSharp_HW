@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\netcoreapp3.1\DynamicMatrix.exe
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\netcoreapp3.1\DynamicMatrix.deps.json
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\netcoreapp3.1\DynamicMatrix.runtimeconfig.json
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\netcoreapp3.1\DynamicMatrix.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\netcoreapp3.1\DynamicMatrix.dll
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\netcoreapp3.1\DynamicMatrix.pdb
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\netcoreapp3.1\DynamicMatrix.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\netcoreapp3.1\DynamicMatrix.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\netcoreapp3.1\DynamicMatrix.AssemblyInfo.cs
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\netcoreapp3.1\DynamicMatrix.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\netcoreapp3.1\DynamicMatrix.dll
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\netcoreapp3.1\DynamicMatrix.pdb
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\netcoreapp3.1\DynamicMatrix.genruntimeconfig.cache

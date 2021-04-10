@@ -1,0 +1,16 @@
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\net5.0\DynamicMatrix.exe
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\net5.0\DynamicMatrix.deps.json
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\net5.0\DynamicMatrix.runtimeconfig.json
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\net5.0\DynamicMatrix.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\net5.0\DynamicMatrix.dll
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\net5.0\ref\DynamicMatrix.dll
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\bin\Debug\net5.0\DynamicMatrix.pdb
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\net5.0\DynamicMatrix.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\net5.0\DynamicMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\net5.0\DynamicMatrix.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\net5.0\DynamicMatrix.AssemblyInfo.cs
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\net5.0\DynamicMatrix.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\net5.0\DynamicMatrix.dll
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\net5.0\ref\DynamicMatrix.dll
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\net5.0\DynamicMatrix.pdb
+C:\Users\victor\source\repos\Dispose. FileStream\DynamicMatrix\obj\Debug\net5.0\DynamicMatrix.genruntimeconfig.cache

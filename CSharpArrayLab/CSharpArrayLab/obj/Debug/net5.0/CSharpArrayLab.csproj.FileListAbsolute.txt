@@ -1,0 +1,16 @@
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\bin\Debug\net5.0\CSharpArrayLab.exe
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\bin\Debug\net5.0\CSharpArrayLab.deps.json
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\bin\Debug\net5.0\CSharpArrayLab.runtimeconfig.json
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\bin\Debug\net5.0\CSharpArrayLab.runtimeconfig.dev.json
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\bin\Debug\net5.0\CSharpArrayLab.dll
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\bin\Debug\net5.0\ref\CSharpArrayLab.dll
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\bin\Debug\net5.0\CSharpArrayLab.pdb
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\obj\Debug\net5.0\CSharpArrayLab.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\obj\Debug\net5.0\CSharpArrayLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\obj\Debug\net5.0\CSharpArrayLab.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\obj\Debug\net5.0\CSharpArrayLab.AssemblyInfo.cs
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\obj\Debug\net5.0\CSharpArrayLab.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\obj\Debug\net5.0\CSharpArrayLab.dll
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\obj\Debug\net5.0\ref\CSharpArrayLab.dll
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\obj\Debug\net5.0\CSharpArrayLab.pdb
+C:\Users\victor\source\repos\CSharpArrayLab\CSharpArrayLab\obj\Debug\net5.0\CSharpArrayLab.genruntimeconfig.cache

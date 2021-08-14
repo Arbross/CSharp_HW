@@ -1,0 +1,11 @@
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\Test_Access\obj\Debug\Test_Access.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\Test_Access\obj\Debug\Test_Access.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\Test_Access\bin\Debug\Test_Access.exe.config
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\Test_Access\bin\Debug\Test_Access.exe
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\Test_Access\bin\Debug\Test_Access.pdb
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\Test_Access\bin\Debug\LabWorkInheritanceCSharp.exe
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\Test_Access\bin\Debug\LabWorkInheritanceCSharp.pdb
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\Test_Access\bin\Debug\LabWorkInheritanceCSharp.exe.config
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\Test_Access\obj\Debug\Test_Access.csproj.CopyComplete
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\Test_Access\obj\Debug\Test_Access.exe
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\Test_Access\obj\Debug\Test_Access.pdb

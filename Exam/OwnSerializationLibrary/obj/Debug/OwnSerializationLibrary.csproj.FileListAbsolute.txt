@@ -1,0 +1,12 @@
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\OwnSerializationLibrary\obj\Debug\OwnSerializationLibrary.csproj.AssemblyReference.cache
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\OwnSerializationLibrary\obj\Debug\OwnSerializationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\OwnSerializationLibrary\bin\Debug\OwnSerializationLibrary.dll
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\OwnSerializationLibrary\bin\Debug\OwnSerializationLibrary.pdb
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\OwnSerializationLibrary\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\OwnSerializationLibrary\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\OwnSerializationLibrary\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\OwnSerializationLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\OwnSerializationLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\OwnSerializationLibrary\obj\Debug\OwnSerializationLibrary.csproj.CopyComplete
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\OwnSerializationLibrary\obj\Debug\OwnSerializationLibrary.dll
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\OwnSerializationLibrary\obj\Debug\OwnSerializationLibrary.pdb

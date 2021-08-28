@@ -1,0 +1,12 @@
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\Test project for own library\obj\Debug\Test project for own library.csproj.AssemblyReference.cache
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\Test project for own library\obj\Debug\Test project for own library.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\Test project for own library\bin\Debug\Test project for own library.exe.config
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\Test project for own library\bin\Debug\Test project for own library.exe
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\Test project for own library\bin\Debug\Test project for own library.pdb
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\Test project for own library\bin\Debug\OwnSerializationLibrary.dll
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\Test project for own library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\Test project for own library\bin\Debug\OwnSerializationLibrary.pdb
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\Test project for own library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\Test project for own library\obj\Debug\Test project for own library.csproj.CopyComplete
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\Test project for own library\obj\Debug\Test project for own library.exe
+C:\Users\victor\Desktop\Programs\repos\Exam Net Core\Test project for own library\obj\Debug\Test project for own library.pdb

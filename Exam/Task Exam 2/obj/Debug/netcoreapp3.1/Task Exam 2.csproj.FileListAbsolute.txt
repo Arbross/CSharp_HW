@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\bin\Debug\netcoreapp3.1\Task Exam 2.exe
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\bin\Debug\netcoreapp3.1\Task Exam 2.deps.json
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\bin\Debug\netcoreapp3.1\Task Exam 2.runtimeconfig.json
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\bin\Debug\netcoreapp3.1\Task Exam 2.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\bin\Debug\netcoreapp3.1\Task Exam 2.dll
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\bin\Debug\netcoreapp3.1\Task Exam 2.pdb
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\obj\Debug\netcoreapp3.1\Task Exam 2.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\obj\Debug\netcoreapp3.1\Task Exam 2.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\obj\Debug\netcoreapp3.1\Task Exam 2.AssemblyInfo.cs
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\obj\Debug\netcoreapp3.1\Task Exam 2.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\obj\Debug\netcoreapp3.1\Task Exam 2.dll
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\obj\Debug\netcoreapp3.1\Task Exam 2.pdb
+C:\Users\victor\source\repos\Exam Net Core\Task Exam 2\obj\Debug\netcoreapp3.1\Task Exam 2.genruntimeconfig.cache
